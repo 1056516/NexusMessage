@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.header {
+    background-color: #ff0000; /* Red */
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.compose-email {
+    background-color: #000000; /* Black */
+    color: white;
+    padding: 20px;
+}
+
+input, textarea {
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+}
+
+button {
+    background-color: #ff0000; /* Red */
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cc0000;
+}
